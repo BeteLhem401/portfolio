@@ -1,5 +1,9 @@
 # 🌐 Betelhem Hailu — Personal Portfolio
 
+## Live Demo
+
+👉 [Click Here to View Portfolio](https://betelhemhailu.netlify.app/)
+
 > *"Turning data into meaningful insights, uncovering patterns, and creating analytical solutions that support smarter decisions."*
 
 ---
