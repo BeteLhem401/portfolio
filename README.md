@@ -1,79 +1,68 @@
-````md
 # 🌐 Betelhem Hailu — Personal Portfolio
 
-> *"Transforming data into insights, stories, and intelligent solutions through analytics and modern design."*
-
-## 🛠 Built With
-
-| Technology                                                                                                 | Purpose                              |
-| ---------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)                | Website Structure & Semantic Markup |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)                   | Styling, Glass UI & Responsiveness  |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | Interactive Effects & Logic          |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)    | Layout & Responsive Grid             |
-| ![AOS](https://img.shields.io/badge/AOS-Animation-orange?style=flat)                                     | Scroll-Based Animations              |
+> *"Turning data into meaningful insights, uncovering patterns, and creating analytical solutions that support smarter decisions."*
 
 ---
 
 ## ✨ Features
 
-* 🎨 Premium dark glassmorphism interface
-* 📱 Fully responsive design for all screen sizes
-* ⌨️ Animated typing role effect (Data Analyst / Scientist)
-* 🧭 Smooth scrolling navigation
-* 🔥 Active navbar highlighting while scrolling
-* 📊 Interactive project showcase cards
-* ✨ Scroll-triggered animations using AOS
-* 📬 Functional contact form integration
-* 🔝 Floating back-to-top button
-* 💫 Ripple button click interactions
-* 🌗 Modern gradient UI with subtle shadows
+* 📊 Professional portfolio focused on Data Analytics & Data Science
+* 🧠 Showcases analytical thinking and problem-solving projects
+* 📱 Fully responsive design across desktop, tablet, and mobile
+* ⌨️ Dynamic role animation highlighting Data Analyst & Scientist identity
+* 🎯 Smooth scrolling experience with interactive navigation
+* 📈 Project cards designed to present data-focused work clearly
+* 💬 Contact section for collaboration and professional networking
+* 🌗 Modern dark interface with clean visual hierarchy
+* 🔝 Easy navigation with floating back-to-top interaction
 
 ---
 
 ## 📂 Project Structure
 
-```text
-BETELHEM_PORTFOLIO
-┣ 📂 supportings
-┃ ┣ 📂 assets
-┃ ┃ ┣ 📂 css
-┃ ┃ ┣ 📂 js
-┃ ┃ ┣ 📂 fonts
-┃ ┃ ┗ 📂 images
-┣ 📄 index.html
-┣ 📄 style.css
-┣ 📄 main.js
-┗ 📄 README.md
-````
+| Folder / File | Description |
+|---------------|-------------|
+| 📁 `portfolio/` | Main project directory |
+| 📄 `index.html` | Portfolio content and page structure |
+| 📄 `style.css` | Visual design, responsiveness, and layout styling |
+| 📄 `main.js` | Interactive effects and animations |
+| 📄 `README.md` | Project overview and documentation |
+| 📁 `supportings/` | Supporting resources and assets |
+| ├── 📁 `images/` | Portfolio images, profile photos, and project visuals |
+| ├── 📁 `resume/` | Downloadable resume file |
+| ├── 📁 `js/` | Additional scripts and supporting interactions |
+| └── 📁 `css/` | Extra styling resources |
 
 ---
 
-## 📌 Sections
+## 📌 Portfolio Sections
 
-| # | Section     | Description                                                 |
-| - | ----------- | ----------------------------------------------------------- |
-| 1 | 🏠 Home     | Hero section with animated role typing effect               |
-| 2 | 🧠 Skills   | Technical expertise in analytics, modeling & dashboards     |
-| 3 | 📊 Projects | Featured analytics and data-driven portfolio projects       |
-| 4 | 👩‍💻 About | Personal background, expertise & professional summary       |
-| 5 | 📬 Contact  | Interactive contact section with direct communication links |
+| # | Section | Description |
+| - | ------- | ----------- |
+| 1 | 🏠 Home | Professional introduction and animated identity section |
+| 2 | 👩‍💻 About | Personal background, interests, and career focus |
+| 3 | 🧠 Skills | Analytical strengths and technical capabilities |
+| 4 | 📊 Projects | Data-focused portfolio projects and case studies |
+| 5 | 📬 Contact | Communication links and networking opportunities |
 
 ---
 
-## 💼 Projects Showcased
+## 💼 Areas of Focus
 
-### 📈 Superstore Analytics
+### 📈 Data Analysis
+Exploring datasets to discover trends, patterns, and business insights.
 
-Business intelligence dashboard using SQL, DAX, and Power BI for customer insights, retention tracking, and sales performance analysis.
+### 📊 Data Visualization
+Presenting information in a clear and engaging way to support understanding.
 
-### 📢 Ads Performance Analytics
+### 🧠 Data Science
+Applying analytical reasoning to investigate complex problems and interpret results.
 
-Marketing campaign analytics project focused on CTR, ROI, audience segmentation, and ad optimization.
+### 🔍 Insight Discovery
+Finding meaningful relationships within data to support decisions.
 
-### 🎓 Student Feedback Insights
-
-Statistical data analysis project exploring educational satisfaction, engagement patterns, and behavioral trends.
+### 📉 Analytical Thinking
+Using structured approaches to solve challenges through evidence and logic.
 
 ---
 
@@ -89,6 +78,5 @@ Statistical data analysis project exploring educational satisfaction, engagement
 ---
 
 <p align="center">
-  Designed & Built with 🧡 by <strong>Betelhem Hailu</strong> · 2026
+  Designed & Built by <strong>Betelhem Hailu</strong>
 </p>
-```
